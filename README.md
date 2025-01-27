@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first learning Repository.
 <br>
-Author - Anmol Sharma.
+Author - Anmol Sharma (Apna College).
